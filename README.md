@@ -10,15 +10,8 @@ This version of Employee Directory is built with [React](http://facebook.github.
 ![alt tag](assets/directory_details.png)
 
 You can test the application in your browser:
-- Using the hosted version
 - By running the application's Node.js server locally
-- By deploying the application's Node.js server on Heroku
 
-You can also run the application as a hybrid app in Cordova.
-
-## Hosted Version
-
-Click [here](http://react-directory.herokuapp.com) to run the hosted version in your browser.
 
 ## Running the Node.js Server Locally
 
